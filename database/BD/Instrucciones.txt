@@ -1,0 +1,1 @@
+1. Al descargar se puede tener una structura de la base de datos, sin embargo no viene con datos por tal motivo se debe usar los seeders.
